@@ -17,10 +17,17 @@ It replicates the UI of the Instagram login screen and can be used as a starter 
 - **HTML5** – Structure
 - **Tailwind CSS** – Styling
   
-📄 License:
+## 📄 License:
 This project is licensed under the MIT License – see the LICENSE
  file for details.
 
 
-🎥 Output:
+## 🎥 Output:
 <img width="1920" height="1080" alt="Screenshot 2025-09-17 183252" src="https://github.com/user-attachments/assets/228139ca-f522-4f65-beb9-655ad39251f3" />
+
+
+## ☁️Netlify Deployment:
+
+https://68cab487672e0f6fa7fec6cd--harishinsta.netlify.app/
+
+![1000200646](https://github.com/user-attachments/assets/4bec6140-3bd0-40b5-b8a4-0868b58a0753)
